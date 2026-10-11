@@ -247,6 +247,13 @@
     <string name="shizuku_status_not_running">未运行</string>
     <string name="button_grant_permission">授予权限</string>
     <string name="cd_shizuku_icon">Shizuku 图标</string>
+    <string name="settings_use_root">Root</string>
+    <string name="settings_use_root_description">通过 su 读取系统遥测</string>
+    <string name="root_status_granted">已授权</string>
+    <string name="root_status_not_granted">未授权</string>
+    <string name="button_request_root">请求 Root</string>
+    <string name="cd_root_icon">Root 图标</string>
+    <string name="privileged_status_disabled">已在设置中禁用</string>
 
     <!-- Appearance Settings Screen -->
     <string name="title_appearance">外观</string>

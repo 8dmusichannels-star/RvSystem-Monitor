@@ -254,6 +254,13 @@
     <string name="shizuku_status_not_running">Not running</string>
     <string name="button_grant_permission">Grant permission</string>
     <string name="cd_shizuku_icon">Shizuku Icon</string>
+    <string name="settings_use_root">Root</string>
+    <string name="settings_use_root_description">Read system telemetry through su</string>
+    <string name="root_status_granted">Granted</string>
+    <string name="root_status_not_granted">Not granted</string>
+    <string name="button_request_root">Request root</string>
+    <string name="cd_root_icon">Root Icon</string>
+    <string name="privileged_status_disabled">Disabled in settings</string>
 
     <!-- Appearance Settings Screen -->
     <string name="title_appearance">Appearance</string>
