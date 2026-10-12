@@ -492,7 +492,7 @@ private fun AppSettingsScreenContent(
                                         contentAlignment = Alignment.Center,
                                     ) {
                                         Icon(
-                                            painter = painterResource(R.drawable.build_filled),
+                                            painter = painterResource(R.drawable.ic_root),
                                             contentDescription = stringResource(R.string.cd_root_icon),
                                             tint = MaterialTheme.colorScheme.onPrimary,
                                             modifier = Modifier.size(28.dp),
